@@ -1,3 +1,3 @@
-**Ender 3 BLtouch firmware
+Ender 3 BLtouch firmware
 
 Marlin compiled
